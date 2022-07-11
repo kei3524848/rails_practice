@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  resources :microposts
-  resources :users
-  root 'users#index'
+  resources :friends
+  #get 'home/index'
+  get 'home/about'
+  root 'home#index'
 end

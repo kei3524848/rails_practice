@@ -1,3 +1,3 @@
 # README
 
-* https://railstutorial.jp/chapters/beginning?version=6.0#cha-beginning
+https://www.youtube.com/watch?v=fmyvWz5TUWg
